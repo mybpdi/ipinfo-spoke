@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD1fbdb9df153801100ffbb7e06a559253</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>5b8ad91f2fb401108043a1fef699b645</scope_name>
+        <serialized_content>{"FlowDesigner:FD1fbdb9df153801100ffbb7e06a559253":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD1fbdb9df153801100ffbb7e06a559253.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"fd4d814c-30eb-40af-8119-9a75cf499eb3\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD1fbdb9df153801100ffbb7e06a559253\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-07 13:59:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dfbdb9df2f3801108043a1fef699b653</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD1fbdb9df153801100ffbb7e06a559253</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rebrickable Spoke" source="x_700695_rebrickab">5b8ad91f2fb401108043a1fef699b645</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">5b8ad91f2fb401108043a1fef699b645</sys_scope>
+        <sys_update_name>sys_complex_object_dfbdb9df2f3801108043a1fef699b653</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-07 13:59:47</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
